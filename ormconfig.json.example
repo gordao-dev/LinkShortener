@@ -1,0 +1,13 @@
+  {
+    "type": "mongodb",
+    "url": "",
+    "authSource": "admin",
+    "ssl": true,
+    "synchronize": true,
+    "replicaSet": "",
+    "logging": true,
+    "useNewUrlParser": true,
+    "database": "",
+    "entities": ["src/Entities/*.*"]
+  }
+  
